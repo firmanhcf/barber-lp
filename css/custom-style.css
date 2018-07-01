@@ -901,6 +901,17 @@ ul.social-box li {
 	    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 	    padding: 30px;
 	}
+}
 
+.store_name{
+	text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+    color: #5A2906;
+}
+
+.store_address{
+	font-size: 14px;
+    color: #674D2E;
 }
 
