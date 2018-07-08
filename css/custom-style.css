@@ -228,10 +228,8 @@ i.box-circle-solid{
 
 /* ========== Top Navigation ========== */
 .top-nav {
-    height: 80px;
-    transition: 0.2s ease-in;
-	-webkit-transition: 0.2s ease-in;
-	-moz-transition: 0.2s ease-in;
+    
+    
 }
 .top-nav .navbar-nav li .nav-link {
     color: #fff;
@@ -814,6 +812,8 @@ ul.social-box li {
 
 
 /* ========== Responsive Stylings ========== */
+
+
 @media (max-width: 991px){
 	.container{
 		width: 100%;
